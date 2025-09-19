@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <title>Big Deal Ventures</title>
-  <link rel="icon" href="assets/images/logo.png" type="image/png">
+  <link rel="icon" href="../assets/images/logo.png" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
   <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet">
                 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,7 +23,7 @@
 
 
 <body class="contact-page">
-  <?php include 'components/navbar.php'; ?>
+  <?php $asset_path = '../assets/'; require_once __DIR__ . '/../components/navbar.php'; ?>
 
  <section class="hero-banner">
     <div class="centered">
@@ -72,21 +72,21 @@
   <div class=" container">
     <div class="row ">
       <div class="col-4 col-md-4  contact-info-item">
-        <img src="assets/images/icon/phone.svg" alt="phone">
+        <img src="../assets/images/icon/phone.svg" alt="phone">
         <div class="contact-info-text">
           <p class="contact-info-title">Call Now</p>
           <a href="tel:+91 8197458962" class="contact-info-detail">+91 8197458962</a>
         </div>
       </div>
       <div class="col-3 col-md-4  contact-info-item">
-        <img src="assets/images/icon/location.svg" alt="location" >
+        <img src="../assets/images/icon/location.svg" alt="location" >
         <div class="contact-info-text">
           <p class="contact-info-title">Location</p>
           <p class="contact-info-detail">Kankanady Gate Building</p>
         </div>
       </div>
       <div class="col-5 col-md-4 contact-info-item">
-        <img src="assets/images/icon/mail.svg" alt="email">
+        <img src="../assets/images/icon/mail.svg" alt="email">
         <div class="contact-info-text">
           <p class="contact-info-title">Email Now</p>
           <a href="mailto:munazzabegam11@gmail.com" class="contact-info-detail">munazzabegam11@gmail.com</a>
@@ -109,17 +109,17 @@
   </div>
       <div class="d-flex align-items-center flex-column flex-md-row">
         <hr class="section-divider">
-        <img class="house-img" src="assets/images/prop/prop4.png" alt="Modern House" />
+        <img class="house-img" src="../assets/images/prop/prop4.png" alt="Modern House" />
       </div>
     </section>
 
 
 
 
-<?php include 'components/footer.php'; ?>
+<?php include '../components/footer.php'; ?>
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/scripts.js"></script>
+  <script src="../assets/js/scripts.js"></script>
 </body>
 </html>

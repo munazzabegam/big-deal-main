@@ -9,25 +9,19 @@
       <div class="collapse navbar-collapse justify-content-end " id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" href="#">Products</a>
+            <a class="nav-link active" href="#">For rent</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-dark" href="#">Solutions</a>
+            <a class="nav-link text-dark" href="#">For Buyers</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-dark" href="#">Community</a>
+            <a class="nav-link text-dark" href="#">About Us</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-dark" href="#">Resources</a>
+            <a class="nav-link text-dark" href="#">Blog</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-dark" href="#">Pricing</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-dark" href="#">Contact</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link text-dark" href="#">Link</a>
+            <a class="nav-link text-dark" href="#">Contact Us</a>
           </li>
         </ul>
       </div>
@@ -37,7 +31,7 @@
   </nav>
 
    <a class="navbar-brand" href="#">
-        <img src="assets/images/logo.png" alt="Big Deal Ventures Logo"  />
+        <img src="<?php echo $asset_path; ?>images/logo.png" alt="Big Deal Ventures Logo"  />
       </a>
       </div>
 

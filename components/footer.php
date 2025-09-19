@@ -3,7 +3,7 @@
   <div class="row ">
 
     <div class="col-md-4 footer">
-    <img src="assets/images/logo.png" alt="footer logo">
+    <img src="<?php echo $asset_path; ?>images/logo.png" alt="footer logo">
   <p>Big Deal Real Estate is your trusted partner in buying, selling, and investing in properties. 
     We focus on transparency, professionalism, and making your real estate journey simple and hassle-free.</p>
 
@@ -38,7 +38,7 @@
           <h3>Get the latest information</h3>
            <div id="search-wrapper">
             <input type="email" id="search" placeholder="Email address">
-            <button id="search-button"><img src="img/icon/sendw.png" alt="send"></button>
+            <button id="search-button"><img src="<?php echo $asset_path; ?>images/icon/sendw.png" alt="send"></button>
           </div>
       </div>
 

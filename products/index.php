@@ -5,11 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <title>Big Deal Ventures</title>
-  <link rel="icon" href="assets/images/logo.png" type="image/png">
+  <link rel="icon" href="../assets/images/logo.png" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="../assets/css/style.css" />
   <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet">
                 
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,7 +21,7 @@
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Figtree:ital,wght@0,300..900;1,300..900&family=Gugi&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 </head>
 <body class="article-page">
-  <?php include 'components/navbar.php'; ?>
+  <?php $asset_path = '../assets/'; require_once __DIR__ . '/../components/navbar.php'; ?>
 
     <div class="container">
       <div class="row">
@@ -193,7 +193,7 @@
         <div class="aproperty-cards">
               
          <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="assets/images/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
+            <img src="../assets/images/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -214,7 +214,7 @@
           </div>
        
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="assets/images/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
+            <img src="../assets/images/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -235,7 +235,7 @@
           </div>
           
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="assets/images/prop/aprop2.png" alt="Pooja Apartment" class="property-image" />
+            <img src="../assets/images/prop/aprop2.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -255,7 +255,7 @@
            </div>
           </div>
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="assets/images/prop/aprop3.png" alt="Pooja Apartment" class="property-image" />
+            <img src="../assets/images/prop/aprop3.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -276,7 +276,7 @@
           </div>
 
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="assets/images/prop/aprop4.png" alt="Pooja Apartment" class="property-image" />
+            <img src="../assets/images/prop/aprop4.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -325,7 +325,7 @@
   </div>
       <div class="d-flex align-items-center flex-column flex-md-row">
         <hr class="section-divider">
-        <img class="house-img" src="assets/images/prop/prop4.png" alt="Modern House" />
+        <img class="house-img" src="../assets/images/prop/prop4.png" alt="Modern House" />
       </div>
     </section>
 
@@ -337,12 +337,12 @@
 
     <section class="about-section container">
   <div class="about-image">
-    <img src="assets/images/prop/bhouse2.png" alt="aboutimg" />
+    <img src="../assets/images/prop/bhouse2.png" alt="aboutimg" />
   </div>
   <div class="about-content">
     <h1>
       Hello City We are <br> leader in <span class="highlight">properties.</span>
-       <img src="assets/images/ARROW.png" alt="arrow" class="arrow">
+       <img src="../assets/images/ARROW.png" alt="arrow" class="arrow">
     </h1>
      <p>
       Your dream home isn’t just a vision — it’s a reality waiting for you. As leaders in real estate, we specialize in crafting experiences where luxury meets comfort, and investment meets trust. Explore our handpicked collection of properties designed for modern lifestyles and lasting value.
@@ -360,11 +360,11 @@
     </section>
 
 
-<?php include 'components/footer.php'; ?>
+<?php include '../components/footer.php'; ?>
 
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-<script src="assets/js/scripts.js" defer></script>
+<script src="../assets/js/scripts.js" defer></script>
 </body>
 </html>

@@ -22,7 +22,7 @@
 </head>
 <body>
 
-  <?php include 'components/navbar.php'; ?>
+  <?php $asset_path = 'assets/'; include __DIR__ . '/components/navbar.php'; ?>
    <section class="container-fluid">
     <div class="text-center  headh  figtree ">
     <h1 class="fw-bold">Find your Beautiful House</h1>
