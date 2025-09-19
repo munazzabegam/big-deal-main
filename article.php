@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <title>Big Deal Ventures</title>
-  <link rel="icon" href="img/logo.png" type="image/png">
+  <link rel="icon" href="assets/images/logo.png" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -193,7 +193,7 @@
         <div class="aproperty-cards">
               
          <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="img/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
+            <img src="assets/images/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -214,7 +214,7 @@
           </div>
        
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="img/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
+            <img src="assets/images/prop/aprop1.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -235,7 +235,7 @@
           </div>
           
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="img/prop/aprop2.png" alt="Pooja Apartment" class="property-image" />
+            <img src="assets/images/prop/aprop2.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -255,7 +255,7 @@
            </div>
           </div>
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="img/prop/aprop3.png" alt="Pooja Apartment" class="property-image" />
+            <img src="assets/images/prop/aprop3.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -276,7 +276,7 @@
           </div>
 
           <div class="aproperty-card" style="display: flex; align-items: center; gap: 20px;">
-            <img src="img/prop/aprop4.png" alt="Pooja Apartment" class="property-image" />
+            <img src="assets/images/prop/aprop4.png" alt="Pooja Apartment" class="property-image" />
             <div class="property-info" style="flex: 1;">
               <h3>Pooja Apartment <br>
               <span>3 BHK House in kadri, Mangaluru</span></h3>
@@ -325,7 +325,7 @@
   </div>
       <div class="d-flex align-items-center flex-column flex-md-row">
         <hr class="section-divider">
-        <img class="house-img" src="img/prop/prop4.png" alt="Modern House" />
+        <img class="house-img" src="assets/images/prop/prop4.png" alt="Modern House" />
       </div>
     </section>
 
@@ -337,12 +337,12 @@
 
     <section class="about-section container">
   <div class="about-image">
-    <img src="img/prop/bhouse2.png" alt="aboutimg" />
+    <img src="assets/images/prop/bhouse2.png" alt="aboutimg" />
   </div>
   <div class="about-content">
     <h1>
       Hello City We are <br> leader in <span class="highlight">properties.</span>
-       <img src="img/ARROW.png" alt="arrow" class="arrow">
+       <img src="assets/images/ARROW.png" alt="arrow" class="arrow">
     </h1>
      <p>
       Your dream home isn’t just a vision — it’s a reality waiting for you. As leaders in real estate, we specialize in crafting experiences where luxury meets comfort, and investment meets trust. Explore our handpicked collection of properties designed for modern lifestyles and lasting value.

@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <title>Big Deal Ventures</title>
-  <link rel="icon" href="img/logo.png" type="image/png">
+  <link rel="icon" href="assets/images/logo.png" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -29,14 +29,14 @@
     <div class="row mt-5">
         <div class=" col-md-8">
             <div class="property-main-image">
-            <img src="img/prop/prop6.png" alt="Shaheer Sweet Home" />
+            <img src="assets/images/prop/prop6.png" alt="Shaheer Sweet Home" />
             </div>
             <div class="property-thumbnails">
-                <img src="img/prop/prop6.png" alt="Thumbnail 2" />
-                <img src="img/prop/prop6.png" alt="Thumbnail 3" />
-                <img src="img/prop/prop6.png" alt="Thumbnail 1" />
+                <img src="assets/images/prop/prop6.png" alt="Thumbnail 2" />
+                <img src="assets/images/prop/prop6.png" alt="Thumbnail 3" />
+                <img src="assets/images/prop/prop6.png" alt="Thumbnail 1" />
                 <div class="thumbnail-more">
-                  <img src="img/prop/prop6.png" alt="Thumbnail 1" />
+                  <img src="assets/images/prop/prop6.png" alt="Thumbnail 1" />
                   <span class="overlay-text">10+</span>
                 </div>
             </div>
@@ -120,7 +120,7 @@
           
             
         </table>
-                <a href="#" class="tminfo">More Information <span><img src="img/icon/parrowdown.svg" alt="arrow down" class="pdarrow"></span></a>
+                <a href="#" class="tminfo">More Information <span><img src="assets/images/icon/parrowdown.svg" alt="arrow down" class="pdarrow"></span></a>
 
           <div class="property-desc">
           <h1>Description</h1>
@@ -131,7 +131,7 @@
           <a href="#" class="view-more">
             View More 
             <span>
-              <img src="img/icon/parrowdown.svg" alt="arrow down" class="pdarrow">
+              <img src="assets/images/icon/parrowdown.svg" alt="arrow down" class="pdarrow">
             </span>
           </a>
         </div>
@@ -179,15 +179,15 @@
             <!-- Property Card 1 -->
             <div class="col-md-4">
                 <div class="card property-card ">
-                    <img  src="img/prop/prop1.png" alt="Modern Family Villa" class="propimg">
+                    <img  src="assets/images/prop/prop1.png" alt="Modern Family Villa" class="propimg">
                     <div class="card-body">
                         <div class="card-title">Modern Family Villa</div>
                         <div class="property-attrs">
-                            <div class="property-attr"><img src="img/icon/home_dark.svg" class="svg" > 4BHK</div>
-                            <div class="property-attr"><img src="img/icon/park_dark.svg" class="svg" > 4</div>
-                            <div class="property-attr"><img src="img/icon/sqft_dark.svg" class="svg" > 4 sq. ft.</div>
-                            <div class="property-attr"><img src="img/icon/terrace_dark.svg" class="svg" > 4</div>
-                            <div class="property-attr"><img src="img/icon/sofa_dark.svg" class="svg" > Semi-furnished</div>
+                            <div class="property-attr"><img src="assets/images/icon/home_dark.svg" class="svg" > 4BHK</div>
+                            <div class="property-attr"><img src="assets/images/icon/park_dark.svg" class="svg" > 4</div>
+                            <div class="property-attr"><img src="assets/images/icon/sqft_dark.svg" class="svg" > 4 sq. ft.</div>
+                            <div class="property-attr"><img src="assets/images/icon/terrace_dark.svg" class="svg" > 4</div>
+                            <div class="property-attr"><img src="assets/images/icon/sofa_dark.svg" class="svg" > Semi-furnished</div>
                         </div>
                     </div>
                 </div>
@@ -195,15 +195,15 @@
             <!-- Property Card 2 -->
             <div class="col-md-4">
                 <div class="card property-card ">
-                    <img src="img/prop/prop2.png" alt="Modern Family Villa">
+                    <img src="assets/images/prop/prop2.png" alt="Modern Family Villa">
                     <div class="card-body">
                         <div class="card-title">Modern Family Villa</div>
                          <div class="property-attrs">
-                            <div class="property-attr"><img src="img/icon/home_dark.svg" class="svg" > 4BHK</div>
-                            <div class="property-attr"><img src="img/icon/park_dark.svg" class="svg" > 4</div>
-                            <div class="property-attr"><img src="img/icon/sqft_dark.svg" class="svg" > 4 sq. ft.</div>
-                            <div class="property-attr"><img src="img/icon/terrace_dark.svg" class="svg" > 4</div>
-                            <div class="property-attr"><img src="img/icon/sofa_dark.svg" class="svg" > Semi-furnished</div>
+                            <div class="property-attr"><img src="assets/images/icon/home_dark.svg" class="svg" > 4BHK</div>
+                            <div class="property-attr"><img src="assets/images/icon/park_dark.svg" class="svg" > 4</div>
+                            <div class="property-attr"><img src="assets/images/icon/sqft_dark.svg" class="svg" > 4 sq. ft.</div>
+                            <div class="property-attr"><img src="assets/images/icon/terrace_dark.svg" class="svg" > 4</div>
+                            <div class="property-attr"><img src="assets/images/icon/sofa_dark.svg" class="svg" > Semi-furnished</div>
                         </div>
                     </div>
                 </div>
@@ -211,15 +211,15 @@
             <!-- Property Card 3 -->
             <div class="col-md-4">
                 <div class="card property-card ">
-                    <img src="img/prop/prop3.png" alt="Luxury City Apartment">
+                    <img src="assets/images/prop/prop3.png" alt="Luxury City Apartment">
                     <div class="card-body">
                         <div class="card-title">Luxury City Apartment</div>
                         <div class="property-attrs">
-                            <div class="property-attr"><img src="img/icon/home_dark.svg" class="svg" > 4BHK</div>
-                            <div class="property-attr"><img src="img/icon/park_dark.svg" class="svg" > 4</div>
-                            <div class="property-attr"><img src="img/icon/sqft_dark.svg" class="svg" > 4 sq. ft.</div>
-                            <div class="property-attr"><img src="img/icon/terrace_dark.svg" class="svg" > 4</div>
-                            <div class="property-attr"><img src="img/icon/sofa_dark.svg" class="svg" > Semi-furnished</div>
+                            <div class="property-attr"><img src="assets/images/icon/home_dark.svg" class="svg" > 4BHK</div>
+                            <div class="property-attr"><img src="assets/images/icon/park_dark.svg" class="svg" > 4</div>
+                            <div class="property-attr"><img src="assets/images/icon/sqft_dark.svg" class="svg" > 4 sq. ft.</div>
+                            <div class="property-attr"><img src="assets/images/icon/terrace_dark.svg" class="svg" > 4</div>
+                            <div class="property-attr"><img src="assets/images/icon/sofa_dark.svg" class="svg" > Semi-furnished</div>
                         </div>
                     </div>
                 </div>
@@ -241,7 +241,7 @@
   </div>
       <div class="d-flex align-items-center flex-column flex-md-row">
         <hr class="section-divider">
-        <img class="house-img" src="img/prop/prop4.png" alt="Modern House" />
+        <img class="house-img" src="assets/images/prop/prop4.png" alt="Modern House" />
       </div>
     </section>
 

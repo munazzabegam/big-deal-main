@@ -37,7 +37,7 @@
   </nav>
 
    <a class="navbar-brand" href="#">
-        <img src="img/logo.png" alt="Big Deal Ventures Logo"  />
+        <img src="assets/images/logo.png" alt="Big Deal Ventures Logo"  />
       </a>
       </div>
 

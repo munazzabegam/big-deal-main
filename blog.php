@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <title>Big Deal Ventures</title>
-  <link rel="icon" href="img/logo.png" type="image/png">
+  <link rel="icon" href="assets/images/logo.png" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -49,7 +49,7 @@
   </div>
   <div class="blog-feature">
     <div class="blog-image">
-      <img src="img/prop/bhouse3.png" alt="Blogimage1">
+      <img src="assets/images/prop/bhouse3.png" alt="Blogimage1">
     </div>
     <div class="blog-card">
       <span class="blog-read">7 min read</span>
@@ -58,7 +58,7 @@
         Experience the pinnacle of luxury living with our exclusive collection of high-end properties. Featuring elegant villas, premium apartments, and penthouses in prime locations, these homes are designed with world-class amenities and modern architecture to deliver unmatched comfort, sophistication, and lifestyle value.
       </p>
       <div class="blog-author">
-        <img src="img/avatar/test1.png" class="author-img" alt="Admin">
+        <img src="assets/images/avatar/test1.png" class="author-img" alt="Admin">
         <div>
           <span class="author-name">Admin</span><br>
           <span class="author-role">Software Dev</span>
@@ -68,17 +68,17 @@
   </div>
   <div class="d-flex blog2">
     <div class="blog-panel">
-      <img src="img/prop/bhouse4.png" alt="Living Room">
+      <img src="assets/images/prop/bhouse4.png" alt="Living Room">
       <div class="caption">Market Trend</div>
       <div class="date">April 9, 2025</div>
     </div>
     <div class="blog-panel">
-      <img src="img/prop/bhouse5.png" alt="Modern TV Unit">
+      <img src="assets/images/prop/bhouse5.png" alt="Modern TV Unit">
       <div class="caption">Market Trend</div>
       <div class="date">April 9, 2025</div>
     </div>
     <div class="blog-panel">
-      <img src="img/prop/bhouse6.png" alt="Contemporary Kitchen">
+      <img src="assets/images/prop/bhouse6.png" alt="Contemporary Kitchen">
       <div class="caption">Market Trend</div>
       <div class="date">April 9, 2025</div>
     </div>
@@ -91,17 +91,17 @@
     <h1>Recent Blogs</h1>
     <div class="d-flex blog2">
     <div class="blog-panel">
-      <img src="img/slider1/DHP1.png" alt="Living Room">
+      <img src="assets/images/slider1/DHP1.png" alt="Living Room">
       <div class="caption">Market Trend</div>
       <div class="date">April 9, 2025</div>
     </div>
     <div class="blog-panel">
-      <img src="img/slider1/DHP1.png" alt="Modern TV Unit">
+      <img src="assets/images/slider1/DHP1.png" alt="Modern TV Unit">
       <div class="caption">Market Trend</div>
       <div class="date">April 9, 2025</div>
     </div>
     <div class="blog-panel">
-      <img src="img/slider1/DHP1.png" alt="Contemporary Kitchen">
+      <img src="assets/images/slider1/DHP1.png" alt="Contemporary Kitchen">
       <div class="caption">Market Trend</div>
       <div class="date">April 9, 2025</div>
     </div>
@@ -123,7 +123,7 @@
   </div>
       <div class="d-flex align-items-center flex-column flex-md-row">
         <hr class="section-divider">
-        <img class="house-img" src="img/prop/prop4.png" alt="Modern House" />
+        <img class="house-img" src="assets/images/prop/prop4.png" alt="Modern House" />
       </div>
     </section>
 

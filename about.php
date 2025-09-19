@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   <title>Big Deal Ventures</title>
-  <link rel="icon" href="img/logo.png" type="image/png">
+  <link rel="icon" href="assets/images/logo.png" type="image/png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
@@ -46,7 +46,7 @@
     <div class="row">
         <div class="col-md-5" >
           <div class="about-img">
-            <img src="img/prop/aboutimg.png" alt="about-img1"  class="img-upper">
+            <img src="assets/images/prop/aboutimg.png" alt="about-img1"  class="img-upper">
             <img src="img/prop/aboutimg2.png" alt="about-img2"  class="img-lower">
         </div>
         </div>
@@ -95,16 +95,16 @@
 </div>
 
 <div class="image-grid " >
-<div class="div1"><img src="img/prop/aboutimg5.png" alt=""> </div>
-<div class="div2"> <img src="img/prop/aboutimg2.png" alt=""> </div>
-<div class="div3"><img src="img/prop/aboutimg.png" alt="">  </div>
-<div class="div4"> <img src="img/prop/aboutimg4.png" alt="">  </div>
-<div class="div5"> <img src="img/prop/aboutimg3.png" alt=""> </div>
+<div class="div1"><img src="assets/images/prop/aboutimg5.png" alt=""> </div>
+<div class="div2"> <img src="assets/images/prop/aboutimg2.png" alt=""> </div>
+<div class="div3"><img src="assets/images/prop/aboutimg.png" alt="">  </div>
+<div class="div4"> <img src="assets/images/prop/aboutimg4.png" alt="">  </div>
+<div class="div5"> <img src="assets/images/prop/aboutimg3.png" alt=""> </div>
 </div>
 
 <div class="latest-works-description row">
   <p class=" col-md-10 desc">A modern villa that blends elegant design with spacious comfort, offering a perfect balance of luxury and convenience.</p>
-  <img src="img/icon/next.svg" alt="" class="about-arrow col-md-2" >
+  <img src="assets/images/icon/next.svg" alt="" class="about-arrow col-md-2" >
 </div>
 </div>
 
@@ -117,14 +117,14 @@
         
         <div class="testimonial-content">
           <div class="testimg">
-            <img src="img/icon/quote.svg" alt="quote" class="quote">
+            <img src="assets/images/icon/quote.svg" alt="quote" class="quote">
             <img src="img/prop/prop5.png" alt="House" class="img-fluid">
           </div>
 
           <div class="testimonial-carousel">
             <div class="testimonial-slide active">
               <div class="testimonial-author">
-                <img src="img/avatar/test1.png" alt="Munazza">
+                <img src="assets/images/avatar/test1.png" alt="Munazza">
                 <div class="testimonial-author-info">
                   <h5>Munazza</h5>
                   <p>Software Developer</p>
@@ -140,7 +140,7 @@
 
             <div class="testimonial-slide">
               <div class="testimonial-author">
-                <img src="img/avatar/test2.png" alt="John Doe">
+                <img src="assets/images/avatar/test2.png" alt="John Doe">
                 <div class="testimonial-author-info">
                   <h5>John Doe</h5>
                   <p>Designer</p>
@@ -156,7 +156,7 @@
 
             <div class="testimonial-slide">
               <div class="testimonial-author">
-                <img src="img/avatar/test3.png" alt="Jane Smith">
+                <img src="assets/images/avatar/test3.png" alt="Jane Smith">
                 <div class="testimonial-author-info">
                   <h5>Jane Smith</h5>
                   <p>Entrepreneur</p>
@@ -172,8 +172,8 @@
           </div>
 
           <div class="testimonial-nav">
-            <img src="img/icon/prev.svg" alt="previous" id="testimonial-prev">
-            <img src="img/icon/next.svg" alt="next" id="testimonial-next">
+            <img src="assets/images/icon/prev.svg" alt="previous" id="testimonial-prev">
+            <img src="assets/images/icon/next.svg" alt="next" id="testimonial-next">
           </div>
         </div>
     </section>
@@ -189,12 +189,12 @@
         Our team is here to help you find your perfect home.
       </p>
        <div class="btn-stack">
-    <button class="btn-black"><img src="img/icon/rightarrow.svg" alt="rarrow" class="rarrow"></button>
+    <button class="btn-black"><img src="assets/images/icon/rightarrow.svg" alt="rarrow" class="rarrow"></button>
     <button class="btn-red">Contact Us Now</button>
   </div>
       <div class="d-flex align-items-center flex-column flex-md-row">
         <hr class="section-divider">
-        <img class="house-img" src="img/prop/prop4.png" alt="Modern House" />
+        <img class="house-img" src="assets/images/prop/prop4.png" alt="Modern House" />
       </div>
     </section>
 

@@ -3,7 +3,7 @@
   <div class="row ">
 
     <div class="col-md-4 footer">
-    <img src="img/logo.png" alt="footer logo">
+    <img src="assets/images/logo.png" alt="footer logo">
   <p>Big Deal Real Estate is your trusted partner in buying, selling, and investing in properties. 
     We focus on transparency, professionalism, and making your real estate journey simple and hassle-free.</p>
 
