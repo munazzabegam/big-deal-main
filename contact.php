@@ -23,43 +23,7 @@
 
 
 <body class="contact-page">
-  <section class="container-fluid p-0">
-    <nav class="navbar navbar-expand-md navbar-light bg-white">
-      <div class="container-fluid">
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link active" href="#">Products</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" href="#">Solutions</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" href="#">Community</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" href="#">Resources</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" href="#">Pricing</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" href="#">Contact</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" href="#">Link</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-
-    <a class="navbar-brand" href="#">
-      <img src="img/logo.png" alt="Big Deal Ventures Logo" />
-    </a>
+  <?php include 'components/navbar.php'; ?>
 
  <section class="hero-banner">
     <div class="centered">
@@ -152,68 +116,7 @@
 
 
 
-    <footer class="container">
-  <hr class="section-divider">
-  <div class="row ">
-
-    <div class="col-md-4 footer">
-    <img src="img/logo.png" alt="footer logo">
-  <p>Big Deal Real Estate is your trusted partner in buying, selling, and investing in properties. 
-    We focus on transparency, professionalism, and making your real estate journey simple and hassle-free.</p>
-
-    <div>
-      <a href="https://facebook.com"><img src="https://img.icons8.com/material-rounded/25/facebook-new.png" clxass="social-icon"></a>
-      <a href="https://instagram.com"><img src="https://img.icons8.com/material-rounded/25/instagram-new.png" class="social-icon"></a>
-      <a href="https://linkedin.com"><img src="https://img.icons8.com/material-rounded/25/linkedin--v1.png" class="social-icon"></a>
-      <a href="https://youtube.com"><img src="https://img.icons8.com/material-rounded/25/youtube-play.png" class="social-icon"></a>
-    </div>
-  </div>
-
-
-
-    <div class=" col-md-2 footer-column">
-                        <h3>Navigation</h3>
-                        <ul class="footer-links">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Home</a></li>
-                            
-                        </ul>
-      </div>
-
-      <div class=" col-md-3 footer-column">
-                        <h3>Contact</h3>
-                        <ul class="footer-links">
-                            <li>+918197458962</li>
-                            <li>info@bigdeal.com</li>
-                            <li>Kankanady Gate building, Mangalore</li>  
-                        </ul>
-      </div>
-
-      <div class=" col-md-3 footer-column">
-          <h3>Get the latest information</h3>
-        <div id="search-wrapper">
-
-  
-<input type="email" id="search" placeholder="Email address">
-<button id="search-button"><img src="img/icon/sendw.png" alt="send"></button>
-
-  </div>
-  </div>
-
-  <hr class="section-divider">
-
-   <div class="col-md-12 d-flex justify-content-between align-items-center">
-
-            <p >
-   &copy;<script>document.write(new Date().getFullYear());</script> Big Deal Real Estate
- </p>
- <p >
-   Developed by
- </p>
-          </div>
-
-</footer>
+<?php include 'components/footer.php'; ?>
 
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
